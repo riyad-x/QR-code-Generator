@@ -4,7 +4,7 @@ This project generates QR codes based on user input. It's a simple and easy-to-u
 
 ## Live Demo
 
-Check out the live version of the project: [QR Code Generator](https://riyad-x.github.io/QR-code-Generator/)
+Check out the live version of the project: [QR Code Generator](https://riyad899.github.io/QR-code-Generator/)
 
 ## Features
 
